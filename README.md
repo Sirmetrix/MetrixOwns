@@ -121,9 +121,9 @@ python3 bot.py
 
 
 ## Thanks to 
- - Thank you [LazyDeveloper](https://t.me/sirmetrix) for helping us in this journey ❤
- - Thank you [LazyDeveloper](https://t.me/sirmetrix) for adding `file renaming feature` 🎉
- - Thank you [LazyDeveloper](https://t.me/sirmetrix) for keeping this `super premium repo` for `free` ❤
+ - Thank you [MetrixOwns](https://t.me/sirmetrix) for helping us in this journey ❤
+ - Thank you [MetrixOwns](https://t.me/sirmetrix) for adding `file renaming feature` 🎉
+ - Thank you [MetrixOwns](https://t.me/sirmetrix) for keeping this `super premium repo` for `free` ❤
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
